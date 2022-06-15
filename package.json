@@ -1,0 +1,24 @@
+{
+  "name": "fibonacciapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hugogirard/FibonacciApi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hugogirard/FibonacciApi/issues"
+  },
+  "homepage": "https://github.com/hugogirard/FibonacciApi#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
